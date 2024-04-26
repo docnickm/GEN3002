@@ -1,0 +1,80 @@
+﻿Name,Mountaintop,Stream,Site
+BP_BG_1,MtNelse,BigRiver,BigRiverTrib
+BP_BG_10,MtNelse,BigRiver,BigRiverTrib
+BP_BG_2,MtNelse,BigRiver,BigRiverTrib
+BP_BG_3,MtNelse,BigRiver,BigRiverTrib
+BP_BG_4,MtNelse,BigRiver,BigRiverTrib
+BP_BG_5,MtNelse,BigRiver,BigRiverTrib
+BP_BG_6,MtNelse,BigRiver,BigRiverTrib
+BP_BG_7,MtNelse,BigRiver,BigRiverTrib
+BP_BG_9,MtNelse,BigRiver,BigRiverTrib
+BP_DU1_3,MtNelse,DuaneCk,Timms Lookout 1
+BP_DU1_6,MtNelse,DuaneCk,Timms Lookout 1
+BP_DU1_7,MtNelse,DuaneCk,Timms Lookout 1
+BP_DU2_10,MtNelse,DuaneCk,Timms Lookout 2
+BP_DU2_4,MtNelse,DuaneCk,Timms Lookout 2
+BP_DU2_6,MtNelse,DuaneCk,Timms Lookout 2
+BP_DU2_7,MtNelse,DuaneCk,Timms Lookout 2
+BP_DU2_8,MtNelse,DuaneCk,Timms Lookout 2
+BP_DU2_9,MtNelse,DuaneCk,Timms Lookout 2
+BP_NN1a_1,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_10,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_11,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_2,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_3,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_4,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_5,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_6,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_7,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_8,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN1a_9,MtNelse,RockyValleyCk,NelseNorthCreek1
+BP_NN2_10,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_2,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_4,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_5,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_6,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_7,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_8,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NN2_9,MtNelse,RockyValleyCk,NelseNorthCreek2
+BP_NS_1,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_2,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_3,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_4,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_5,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_6,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_7,MtNelse,RockyValleyCk,NelseCreek
+BP_NS_8,MtNelse,RockyValleyCk,NelseCreek
+BP_WR3_1,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_10,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_2,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_3,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_4,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_5,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_6,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_7,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_8,MtNelse,BigRiver,WhiteRocks3
+BP_WR3_9,MtNelse,BigRiver,WhiteRocks3
+BP_WR4_10-1,MtNelse,BigRiver,WhiteRocks4
+BP_WR4_4-1,MtNelse,BigRiver,WhiteRocks4
+BP_WR4_6-1,MtNelse,BigRiver,WhiteRocks4
+BP_WR4_8-1,MtNelse,BigRiver,WhiteRocks4
+BP_WR4_9-1,MtNelse,BigRiver,WhiteRocks4
+F_DU2_6,MtNelse,DuaneCk,Timms Lookout 2
+F_DU2_7,MtNelse,DuaneCk,Timms Lookout 2
+F_NN3_3,MtNelse,RockyValleyCk,NelseNorthCreek3
+F_NN3_4,MtNelse,RockyValleyCk,NelseNorthCreek3
+J97_E05_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed1
+J97_E06_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed1
+J97_E07_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed1
+J97_E08_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed1
+J97_E09_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed1
+J97_E10_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed2
+J97_E11_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed2
+J97_E12_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed2
+J97_F01_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed2
+J97_F02_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed2
+J97_F05_LCO1490.ab1,MtNelse,RockyValleyCk,WATN1
+J97_F06_LCO1490.ab1,MtNelse,RockyValleyCk,WATN1
+J97_F07_LCO1490.ab1,MtNelse,RockyValleyCk,WATN1
+J97_G06_LCO1490.ab1,MtNelse,BigRiver,WhiteRocks1
+JH1_LCO1490.ab1,MtNelse,RockyValleyCk,Watchbed1
